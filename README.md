@@ -11,11 +11,11 @@ To use:
 
 Choose either auto-location or enter city from drop down box
 
-After your selection choose get weather
+After your selection press get weather button
 
 After verifying entry is valid weather conditions, image to describe weather, temperature graph, humidity graph and pressure will be plotted in tkinter canvas to display
 
-If you want to choose another location and run again select the clear button and follow line 7 & 8 again
+If you want to choose another location and run again select the clear button and follow steps 1 & 2 again
 When done press quit to close program
 
 
