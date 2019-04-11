@@ -14,7 +14,10 @@ If you want to choose another location and run again select the clear button and
 When done press quit to close program
 
 Known bugs that have been fixed in last edit:
+  
   Prevented crashes with no internet (this program requires internet connection) with warning message if no internet detected,            message closes automatically when internet is detected
+  
   Prevented crashes with nonsense entry to city or country by interrupting after attempted data acquisition with warning to user that entry was invalid
+  
   Prevented crashes with clicking get weather multiple times by interrupting plotting process with warning that you need to clear the canvas before plotting again
   Prevented crashes with pressing clear multiple times removing clear button after initial click until more data is plotted
