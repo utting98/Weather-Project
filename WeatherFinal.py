@@ -113,7 +113,7 @@ def __main__(): #Define main plotting function
     global canvasexist #Define canvasexist value as global
     
     global clearbutton #Define the clear button as a global for use elsewhere
-    api_key=str('08f1313bdc9cfc764e04711228fc95ce') #Define my API string for URL
+    api_key='Your API key' #Can get an API key from openweathermap
     base_url = "http://api.openweathermap.org/data/2.5/weather?" #Define base URL for all cases
     
     if(ans=='Auto-Location'): #If code executed on auto-location call fetch IP location and weather
